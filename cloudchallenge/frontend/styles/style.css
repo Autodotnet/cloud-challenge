@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:wght@300..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+body {
+    background-color: #F4F0EA;
+    font-family: "Winky Sans", sans-serif;
+    font-weight: 500;
+  }
+  
+  header {
+    border: 2px solid darkcyan;
+    padding: 2rem;
+    background-color: beige;
+    text-align: center;
+    
+  }
+
+  main {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem
+
+  }
+
+  section {
+    display: flex;
+    flex-direction: column;
+
+  }
+  h1 {
+    
+    font-size: 3rem;
+    text-transform: capitalize;
+    text-align: center;
+    margin:0;
+  }
+  h2 {
+    font-size: 1.3rem;
+  }
+
+  h3 {
+    text-align: end;
+    border: 2px solid darkblue;
+    border-radius: 2rem;
+    margin: 0 auto 1rem;
+    border-style: double;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    font-weight: 200;
+  }
+  li {
+    font-size: 1.2rem;
+    font-weight: 200;
+
+  }
