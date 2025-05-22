@@ -1,8 +1,6 @@
 Welcome to my Cloud Challenge Resume repo! 
 
-This is a Cloud project where I have to build a web application. The application consists of a web page displaying my CV with a visitor counter. The project is still in a test stage, but the major steps have been completed.
-
-Here, you can find the code for my application, including the front end and the backend (Lambda function), as well as the Terraform code to build the resources instead of using the console. Later, I will add the test to my API. 
+This is a Cloud project where I have to build a web application in AWS. The application contains a web page displaying my CV with a visitor counter that stores the visits in a database. The project is still in a test stage. So far, I have created the frontend and backend, linked both of them using a REST API, written tests to validate the API and created the IaC for the frontend.
 
 This is the underlying infrastructure. enjoy!
 
